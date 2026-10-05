@@ -1,0 +1,8 @@
+{
+  "name": "The Next Wave",
+  "description": "A premium, modern technology blog exploring artificial intelligence, innovation, and digital trends through a clean, professional editorial layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
